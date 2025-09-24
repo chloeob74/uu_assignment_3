@@ -8,3 +8,6 @@ This repository contains my work for Assignment 4 for my Understanding Uncertain
 
 ## Files
 - assignment_3.ipynb
+
+## Notes
+The finished assignment is under assignment_3.ipynb, not the html file
